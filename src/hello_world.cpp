@@ -3,6 +3,6 @@
 
 int main(int argc, char *argv[])
 {
-	Hello::Speaker speaker;
+	Awesome::Speaker speaker;
 	speaker.sayHello();
 }
