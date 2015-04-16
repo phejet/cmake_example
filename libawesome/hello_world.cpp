@@ -1,8 +1,8 @@
-#include "hello/speaker.hpp"
+#include "libawesome/awesome.hpp"
 
 
 int main(int argc, char *argv[])
 {
-	Awesome::Speaker speaker;
+	Awesome::Main speaker;
 	speaker.sayHello();
 }

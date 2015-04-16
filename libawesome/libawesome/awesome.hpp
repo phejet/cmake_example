@@ -3,7 +3,7 @@
 namespace Awesome
 {
 
-class Speaker
+class Main
 {
 public:
 	void sayHello();
